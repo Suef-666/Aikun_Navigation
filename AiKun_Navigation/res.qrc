@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>NKU.jpg</file>
+        <file>jinnan.jpg</file>
+        <file>title.jpg</file>
+        <file>xiaoqu.jpg</file>
+        <file>m.png</file>
+        <file>xiaoqu.png</file>
+        <file>ditie.jpg</file>
+        <file>gongjiao.jpg</file>
+        <file>button2.png</file>
+        <file>button.png</file>
+    </qresource>
+</RCC>
